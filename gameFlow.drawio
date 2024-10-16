@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sqUQeC1FOV0gbyGXomjV-1" value="Game Flow Obelia&#39;s Echo : The Fallen Kingdom" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="150" y="30" width="500" height="460" as="geometry" />
+        <mxCell id="sqUQeC1FOV0gbyGXomjV-1" value="Game Flow Obelia&#39;s Echo : The Fallen Kingdom" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="570" height="550" as="geometry" />
         </mxCell>
         <mxCell id="sqUQeC1FOV0gbyGXomjV-3" value="Start Game" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="200" y="110" width="80" height="80" as="geometry" />
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="sqUQeC1FOV0gbyGXomjV-10" value="Info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sqUQeC1FOV0gbyGXomjV-11" value="Finish Game" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sqUQeC1FOV0gbyGXomjV-12" value="Win/Lose&lt;div&gt;Condition&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
